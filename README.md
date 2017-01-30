@@ -4,4 +4,4 @@ https://marchforsciencegeneva.github.io
 
 # Contributing
 
-Please fork and make a PR
+Please fork, create a branch and make a PR
