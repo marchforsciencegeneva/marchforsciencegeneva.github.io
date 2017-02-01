@@ -5,4 +5,4 @@ category: Services
 title: Science In Progress
 description: |
 ---
-  This website is under construction but will host the details on the March For Science -- Geneva.
+  This website is under construction but will host the details on the March for Science -- Geneva.
