@@ -1,7 +1,7 @@
 ---
 layout: default
 img: science-icon.png
-category: Services
+category: Posts
 title: Science In Progress
 description: |
 ---
