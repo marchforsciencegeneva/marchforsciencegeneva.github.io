@@ -27,6 +27,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
+  - title: email
+    icon: envelope
+    url: mailto:contact@marchforsciencegeneva.org
   - title: twitter
     url: https://twitter.com/ScienceMarchGVA
   - title: facebook
