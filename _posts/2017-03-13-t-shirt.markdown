@@ -1,0 +1,8 @@
+---
+layout: default
+img: t-shirt.png
+category: Posts
+title: T-Shirt Sign Up
+description: |
+---
+  The official March for Science Geneva T-Shirt Sign Up is now available! T-shirts are 20CHF each and come in womens and unisex sizes. More information can be found in our <a href="https://goo.gl/forms/Jk9I0AoILtfCv2bG3" target="_blank">sign-up form</a>.
