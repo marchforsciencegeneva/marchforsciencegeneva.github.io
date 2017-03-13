@@ -3,9 +3,9 @@
 {% for post in site.posts %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
-    <div class="content-section-a">
+    <div class="content-section-a" id="{{ post.title | slugify: 'pretty'}}">
 
-        <div class="container" id="{{ post.title | slugify: 'pretty'}}">
+        <div class="container">
 
             <div class="row">
                 <div class="col-lg-5 col-sm-6">
