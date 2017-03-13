@@ -1,9 +1,10 @@
 <section id="posts">
 <!-- Page Content -->
 {% for post in site.posts %}
+  <div id="{{ post.title | slugify: 'pretty'}}" />
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
-    <div class="content-section-a" id="{{ post.title | slugify: 'pretty'}}">
+    <div class="content-section-a">
 
         <div class="container">
 
@@ -34,7 +35,7 @@
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <h2 class="section-heading"><a href="#{{ post.title | slugify: 'pretty'}}">{{ post.title }}</a></h2>
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
