@@ -34,9 +34,9 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/ATLAS_pPb_v2_fig_10.png) no-repeat center center;
+    background: url(../img/MfS_GVA_AltAtom_Logo_v1.png) no-repeat center center;
     background-size: contain; /* cover: crop. contain: always show whole image */
-    background-color: #000;
+    background-color: #fff;
 }
 
 .intro-message {
