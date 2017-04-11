@@ -1,6 +1,10 @@
 <section id="home">
 <!-- Header -->
+      {% if page.landing %}
 	<div class="intro-header">
+      {% else %}
+        <div class="intro-header small-header">
+      {% endif %}
 
 		<div class="container">
 
@@ -13,14 +17,14 @@
 						<ul class="list-inline intro-social-buttons">
 							{% for social in site.social %}
 							<li>
-								<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.icon | default: social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>
+								<a href="{{ social.url }}" class="btn btn-default"><i class="fa fa-{{ social.icon | default: social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>
 							</li>
 							{% endfor %}
                                                         <li>
                                                           <form id="paypal-form" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                                                           <input type="hidden" name="cmd" value="_s-xclick">
                                                           <input type="hidden" name="hosted_button_id" value="LXU5GJVMSJN38">
-                                                          <button form="paypal-form" alt="PayPal - The safer, easier way to pay online!" class="btn btn-primary btn-lg"><i class="fa fa-paypal" aria-hidden="true"></i> <span class="network-name">Donate</span></button>
+                                                          <button form="paypal-form" alt="PayPal - The safer, easier way to pay online!" class="btn btn-primary"><i class="fa fa-paypal" aria-hidden="true"></i> <span class="network-name">Donate</span></button>
                                                           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                                                           </form>
                                                         </li>

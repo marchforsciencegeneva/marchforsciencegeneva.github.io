@@ -39,6 +39,11 @@ h6 {
     background-color: #fff;
 }
 
+.intro-header.small-header > .container {
+  width: 400px;
+  font-size: 75%;
+}
+
 .intro-message {
     position: relative;
     padding-top: 20%;
