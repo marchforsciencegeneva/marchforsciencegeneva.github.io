@@ -43,3 +43,10 @@ social:
     url: https://www.facebook.com/marchforsciencegeneva/
   - title: github
     url: https://github.com/marchforsciencegeneva/marchforsciencegeneva.github.io
+
+# ----------------------- #
+#    Custom Collections   #
+# ----------------------- #
+
+collections:
+  - news
