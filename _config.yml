@@ -15,6 +15,13 @@ copyright: 'Copyright &copy; 2017 MfS - Geneva. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
+#      HTTP Headers       #
+# ----------------------- #
+webrick:
+  headers:
+    Content-Language: en-US
+
+# ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
 
