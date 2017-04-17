@@ -101,6 +101,14 @@ h6 {
     }
 }
 
+.program-schedule {
+  text-align: left;
+}
+
+.intro-header.small-header .program-schedule {
+  display: none;
+}
+
 .network-name {
     text-transform: uppercase;
     font-size: 14px;
