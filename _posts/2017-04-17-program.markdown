@@ -1,0 +1,15 @@
+---
+layout: default
+img: map.png
+category: Program
+title: Program Schedule
+description: |
+---
+  The schedule is as follows:
+
+<ul>
+  <li> 10h00 -- meet at Jardin Anglais</li>
+  <li> 10h30 -- Rally</li>
+  <li> 11h00 -- March</li>
+  <li> 12h00-14h30 -- Celebration of Science event</li>
+</ul>
