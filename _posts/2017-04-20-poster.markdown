@@ -1,0 +1,9 @@
+---
+layout: default
+img: march_poster.png
+category: poster
+title: March Poster
+description: |
+---
+
+Print your own March for Science poster and tell us why you march! Get the poster [here](/assets/March_Poster.pdf).
