@@ -5,4 +5,4 @@ category: Posts
 title: T-Shirts
 description: |
 ---
-  Sign-Up for T-shirts has been closed and shirts are being delivered. If you have ordered a shirt, you will be contacted shortly.
+  Sign-Up for T-shirts has been re-opened. Please visit https://www.teezily.com/marchforscience-gva to sign up!
