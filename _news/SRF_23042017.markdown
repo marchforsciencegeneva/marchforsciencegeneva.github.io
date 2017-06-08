@@ -1,0 +1,6 @@
+---
+link: https://www.srf.ch/news/international/march-for-science-in-600-staedten
+title: SRF [Deutsch]
+lang: german
+
+---

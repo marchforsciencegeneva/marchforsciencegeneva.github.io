@@ -1,0 +1,6 @@
+---
+link: http://www.bbc.com/news/world-39679629
+title: BBC News [English; photo]
+lang: english
+
+---
