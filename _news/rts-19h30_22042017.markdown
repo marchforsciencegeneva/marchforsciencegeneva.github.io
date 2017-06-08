@@ -1,6 +1,6 @@
 ---
 link: https://www.rts.ch/play/tv/19h30/video/19h30?id=8561499
-title: RTS 19h30 -- nightly news programme [Francais]
+title: RTS 19h30 -- nightly TV news programme [Français]
 lang: french
 
 ---
